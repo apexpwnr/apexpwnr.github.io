@@ -1,0 +1,11 @@
+# Site settings
+title: Apex Pwnr
+author: Apex Pwnr
+baseurl: ""
+url: "http://apexpwnr.github.io"
+
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
